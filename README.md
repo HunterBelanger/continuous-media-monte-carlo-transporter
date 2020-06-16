@@ -1,5 +1,6 @@
 # Continuous Media Monte Carlo Transporter
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3897411.svg)](https://doi.org/10.5281/zenodo.3897411)
 [![License](https://img.shields.io/badge/License-CeCILL%20v2.1-brightgreen)](https://github.com/HunterBelanger/continuous-media-monte-carlo-transporter/blob/master/LICENSE)
 
 This repository contains a brief code which aims to compare different transport
