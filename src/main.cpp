@@ -76,7 +76,7 @@ Valid arguments for transporter are:
   IRCCTT: Improving Meshed Carter Tracking)";
 
 static const char VERSION[] =
-    R"(Continuous Media Monte Carlo Transporter 1.0.0
+    R"(Continuous Media Monte Carlo Transporter 1.0.1
 Written by Hunter Belanger (hunter.belanger@cea.fr)
 
 Copyright (C) 2020, Commissariat à l'Energie Atomique

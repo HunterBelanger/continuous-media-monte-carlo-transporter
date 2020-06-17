@@ -85,9 +85,9 @@ void Output() {
             << avg_c_pp_real_error;
   std::cout << std::scientific << ", FOM_c_rel = " << FOM_c_rel << "\n"
             << std::fixed << std::setprecision(6);
-  std::cout << "  All Coll Rate: " << avg_coll_per_part_all << " +/- "
+  std::cout << " Tot. Coll Rate: " << avg_coll_per_part_all << " +/- "
             << avg_c_pp_all_error;
-  std::cout << std::scientific << ", FOM_c_all = " << FOM_c_all << "\n"
+  std::cout << std::scientific << ", FOM_c_tot = " << FOM_c_all << "\n"
             << std::fixed << std::setprecision(6);
   std::cout << "   Leakage Rate: " << avg_leakage_rate << " +/- "
             << avg_leakage_rate_error;

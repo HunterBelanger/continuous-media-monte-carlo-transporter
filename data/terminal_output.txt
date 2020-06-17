@@ -1,0 +1,401 @@
+ NBATCHES = 1000
+
+ Using linear XS Σ(x) = 1.00 * x + 0.00 ,  ∀ x ∈ [0.00,2.00]
+
+ Using Sub-Stepping Transport
+
+ Real Coll Rate: 1.430375 +/- 0.000100, FOM_c_rel = 2.101292e-02
+ Tot. Coll Rate: 1.430375 +/- 0.000100, FOM_c_tot = 2.101292e-02
+   Leakage Rate: 0.570891 +/- 0.000040, FOM_leak  = 2.087945e-02
+ NParticle Transported: 100000000 , XS Evals: 9.774956e+09
+
+ Using Direct-Sampling
+
+ Real Coll Rate: 1.430778 +/- 0.000103, FOM_c_rel = 2.567775e-02
+ Tot. Coll Rate: 1.430778 +/- 0.000103, FOM_c_tot = 2.567775e-02
+   Leakage Rate: 0.570760 +/- 0.000039, FOM_leak  = 2.828032e-02
+ NParticle Transported: 100000000 , XS Evals: 7.529366e+09
+
+ Using Delta Tracking
+
+ Real Coll Rate: 1.430517 +/- 0.000103, FOM_c_rel = 4.986676e-01
+ Tot. Coll Rate: 1.430461 +/- 0.000106, FOM_c_tot = 4.686555e-01
+   Leakage Rate: 0.570882 +/- 0.000039, FOM_leak  = 5.390666e-01
+ NParticle Transported: 100000000 , XS Evals: 3.904273e+08
+
+ Using Meshed Delta Tracking
+
+ Real Coll Rate: 1.430439 +/- 0.000100, FOM_c_rel = 1.020771e+00
+ Tot. Coll Rate: 1.430461 +/- 0.000101, FOM_c_tot = 1.003160e+00
+   Leakage Rate: 0.570851 +/- 0.000038, FOM_leak  = 1.119445e+00
+ NParticle Transported: 100000000 , XS Evals: 2.007124e+08
+
+ Using Negative Weighted Delta Tracking
+
+ Real Coll Rate: 1.430493 +/- 0.000255, FOM_c_rel = 9.501409e-02
+ Tot. Coll Rate: 1.430450 +/- 0.000148, FOM_c_tot = 2.816805e-01
+   Leakage Rate: 0.570885 +/- 0.000078, FOM_leak  = 1.604567e-01
+ NParticle Transported: 121267952 , XS Evals: 3.307389e+08
+
+ Using Meshed Netative Weighted Delta Tracking
+
+ Real Coll Rate: 1.431040 +/- 0.000337, FOM_c_rel = 7.596929e-02
+ Tot. Coll Rate: 1.430791 +/- 0.000172, FOM_c_tot = 2.929060e-01
+   Leakage Rate: 0.570914 +/- 0.000104, FOM_leak  = 1.280000e-01
+ NParticle Transported: 148700359 , XS Evals: 2.369242e+08
+
+ Using Carter Transport
+
+ Real Coll Rate: 1.430659 +/- 0.000107, FOM_c_rel = 5.347540e-01
+ Tot. Coll Rate: 1.430681 +/- 0.000110, FOM_c_tot = 5.060129e-01
+   Leakage Rate: 0.570911 +/- 0.000042, FOM_leak  = 5.425149e-01
+ NParticle Transported: 100000048 , XS Evals: 3.331177e+08
+
+ Using Meshed Carter Transport
+
+ Real Coll Rate: 1.430632 +/- 0.000126, FOM_c_rel = 7.123818e-01
+ Tot. Coll Rate: 1.430641 +/- 0.000116, FOM_c_tot = 8.465883e-01
+   Leakage Rate: 0.570822 +/- 0.000050, FOM_leak  = 7.093282e-01
+ NParticle Transported: 100000554 , XS Evals: 1.809930e+08
+
+ Using Improving Meshed Carter Transport
+
+ Real Coll Rate: 1.430412 +/- 0.000101, FOM_c_rel = 1.003417e+00
+ Tot. Coll Rate: 1.430459 +/- 0.000100, FOM_c_tot = 1.025171e+00
+   Leakage Rate: 0.570894 +/- 0.000037, FOM_leak  = 1.170728e+00
+ NParticle Transported: 100000000 , XS Evals: 2.007138e+08
+
+ =======================================================
+
+ Using linear XS Σ(x) = -1.00 * x + 2.00 ,  ∀ x ∈ [0.00,2.00]
+
+ Using Sub-Stepping Transport
+
+ Real Coll Rate: 1.430559 +/- 0.000099, FOM_c_rel = 3.220349e-02
+ Tot. Coll Rate: 1.430559 +/- 0.000099, FOM_c_tot = 3.220349e-02
+   Leakage Rate: 0.570781 +/- 0.000040, FOM_leak  = 3.194492e-02
+ NParticle Transported: 100000000 , XS Evals: 6.496887e+09
+
+ Using Direct-Sampling
+
+ Real Coll Rate: 1.430539 +/- 0.000098, FOM_c_rel = 2.845410e-02
+ Tot. Coll Rate: 1.430539 +/- 0.000098, FOM_c_tot = 2.845410e-02
+   Leakage Rate: 0.570851 +/- 0.000037, FOM_leak  = 3.149377e-02
+ NParticle Transported: 100000000 , XS Evals: 7.513338e+09
+
+ Using Delta Tracking
+
+ Real Coll Rate: 1.430557 +/- 0.000101, FOM_c_rel = 7.711987e-01
+ Tot. Coll Rate: 1.430583 +/- 0.000088, FOM_c_tot = 1.017825e+00
+   Leakage Rate: 0.570775 +/- 0.000039, FOM_leak  = 8.414768e-01
+ NParticle Transported: 100000000 , XS Evals: 2.592655e+08
+
+ Using Meshed Delta Tracking
+
+ Real Coll Rate: 1.430446 +/- 0.000095, FOM_c_rel = 1.223305e+00
+ Tot. Coll Rate: 1.430475 +/- 0.000092, FOM_c_tot = 1.301920e+00
+   Leakage Rate: 0.570855 +/- 0.000039, FOM_leak  = 1.159640e+00
+ NParticle Transported: 100000000 , XS Evals: 1.849703e+08
+
+ Using Negative Weighted Delta Tracking
+
+ Real Coll Rate: 1.429736 +/- 0.000306, FOM_c_rel = 6.496209e-02
+ Tot. Coll Rate: 1.430137 +/- 0.000155, FOM_c_tot = 2.552128e-01
+   Leakage Rate: 0.570716 +/- 0.000094, FOM_leak  = 1.093801e-01
+ NParticle Transported: 141668588 , XS Evals: 3.349759e+08
+
+ Using Meshed Netative Weighted Delta Tracking
+
+ Real Coll Rate: 1.430290 +/- 0.000362, FOM_c_rel = 6.367240e-02
+ Tot. Coll Rate: 1.430348 +/- 0.000184, FOM_c_tot = 2.450053e-01
+   Leakage Rate: 0.570817 +/- 0.000110, FOM_leak  = 1.098836e-01
+ NParticle Transported: 160222333 , XS Evals: 2.453468e+08
+
+ Using Carter Transport
+
+ Real Coll Rate: 1.430603 +/- 0.000131, FOM_c_rel = 5.037071e-01
+ Tot. Coll Rate: 1.430622 +/- 0.000107, FOM_c_tot = 7.515619e-01
+   Leakage Rate: 0.570869 +/- 0.000048, FOM_leak  = 6.032470e-01
+ NParticle Transported: 100000197 , XS Evals: 2.367893e+08
+
+ Using Meshed Carter Transport
+
+ Real Coll Rate: 1.430743 +/- 0.000143, FOM_c_rel = 5.681689e-01
+ Tot. Coll Rate: 1.430663 +/- 0.000124, FOM_c_tot = 7.510416e-01
+   Leakage Rate: 0.570854 +/- 0.000054, FOM_leak  = 6.424849e-01
+ NParticle Transported: 100001048 , XS Evals: 1.761835e+08
+
+ Using Improving Meshed Carter Transport
+
+ Real Coll Rate: 1.430571 +/- 0.000102, FOM_c_rel = 1.073067e+00
+ Tot. Coll Rate: 1.430610 +/- 0.000098, FOM_c_tot = 1.162852e+00
+   Leakage Rate: 0.570884 +/- 0.000039, FOM_leak  = 1.182503e+00
+ NParticle Transported: 100000000 , XS Evals: 1.849837e+08
+
+ =======================================================
+
+ Using Exponential XS Σ(x) = 0.10 * Exp[2.00 * x] ,  ∀ x ∈ [0.00,2.00]
+
+ Using Sub-Stepping Transport
+
+ Real Coll Rate: 1.701157 +/- 0.000110, FOM_c_rel = 2.261549e-02
+ Tot. Coll Rate: 1.701157 +/- 0.000110, FOM_c_tot = 2.261549e-02
+   Leakage Rate: 0.489731 +/- 0.000041, FOM_leak  = 1.331231e-02
+ NParticle Transported: 100000000 , XS Evals: 1.048330e+10
+
+ Using Direct-Sampling
+
+ Real Coll Rate: 1.701195 +/- 0.000108, FOM_c_rel = 2.760475e-02
+ Tot. Coll Rate: 1.701195 +/- 0.000108, FOM_c_tot = 2.760475e-02
+   Leakage Rate: 0.489623 +/- 0.000040, FOM_leak  = 1.704033e-02
+ NParticle Transported: 100000000 , XS Evals: 8.958599e+09
+
+ Using Delta Tracking
+
+ Real Coll Rate: 1.701328 +/- 0.000110, FOM_c_rel = 2.097838e-01
+ Tot. Coll Rate: 1.701260 +/- 0.000125, FOM_c_tot = 1.623456e-01
+   Leakage Rate: 0.489654 +/- 0.000041, FOM_leak  = 1.267140e-01
+ NParticle Transported: 100000000 , XS Evals: 1.142660e+09
+
+ Using Meshed Delta Tracking
+
+ Real Coll Rate: 1.700965 +/- 0.000114, FOM_c_rel = 7.744609e-01
+ Tot. Coll Rate: 1.701021 +/- 0.000113, FOM_c_tot = 7.761668e-01
+   Leakage Rate: 0.489629 +/- 0.000039, FOM_leak  = 5.492682e-01
+ NParticle Transported: 100000000 , XS Evals: 2.897825e+08
+
+ Using Negative Weighted Delta Tracking
+
+ Real Coll Rate: 1.701128 +/- 0.000321, FOM_c_rel = 3.657450e-02
+ Tot. Coll Rate: 1.700933 +/- 0.000285, FOM_c_tot = 4.631770e-02
+   Leakage Rate: 0.489607 +/- 0.000116, FOM_leak  = 2.304929e-02
+ NParticle Transported: 191147724 , XS Evals: 7.686947e+08
+
+ Using Meshed Netative Weighted Delta Tracking
+
+ Real Coll Rate: 1.701366 +/- 0.000334, FOM_c_rel = 7.669106e-02
+ Tot. Coll Rate: 1.701229 +/- 0.000182, FOM_c_tot = 2.578753e-01
+   Leakage Rate: 0.489717 +/- 0.000084, FOM_leak  = 1.010727e-01
+ NParticle Transported: 130835873 , XS Evals: 3.382425e+08
+
+ Using Carter Transport
+
+ Real Coll Rate: 1.701079 +/- 0.000113, FOM_c_rel = 2.321167e-01
+ Tot. Coll Rate: 1.701017 +/- 0.000127, FOM_c_tot = 1.846270e-01
+   Leakage Rate: 0.489642 +/- 0.000042, FOM_leak  = 1.399276e-01
+ NParticle Transported: 100000008 , XS Evals: 9.719845e+08
+
+ Using Meshed Carter Transport
+
+ Real Coll Rate: 1.701154 +/- 0.000127, FOM_c_rel = 7.006426e-01
+ Tot. Coll Rate: 1.701237 +/- 0.000121, FOM_c_tot = 7.742265e-01
+   Leakage Rate: 0.489687 +/- 0.000046, FOM_leak  = 4.478385e-01
+ NParticle Transported: 100000059 , XS Evals: 2.550279e+08
+
+ Using Improving Meshed Carter Transport
+
+ Real Coll Rate: 1.701102 +/- 0.000111, FOM_c_rel = 8.168021e-01
+ Tot. Coll Rate: 1.701198 +/- 0.000110, FOM_c_tot = 8.223178e-01
+   Leakage Rate: 0.489702 +/- 0.000042, FOM_leak  = 4.768409e-01
+ NParticle Transported: 100000000 , XS Evals: 2.898149e+08
+
+ =======================================================
+
+ Using Exponential XS Σ(x) = 1.00 * Exp[-3.00 * x] ,  ∀ x ∈ [0.00,2.00]
+
+ Using Sub-Stepping Transport
+
+ Real Coll Rate: 0.315867 +/- 0.000053, FOM_c_rel = 3.908459e-03
+ Tot. Coll Rate: 0.315867 +/- 0.000053, FOM_c_tot = 3.908459e-03
+   Leakage Rate: 0.905241 +/- 0.000019, FOM_leak  = 2.610391e-01
+ NParticle Transported: 100000000 , XS Evals: 8.932059e+09
+
+ Using Direct-Sampling
+
+ Real Coll Rate: 0.315823 +/- 0.000053, FOM_c_rel = 2.204832e-02
+ Tot. Coll Rate: 0.315823 +/- 0.000053, FOM_c_tot = 2.204832e-02
+   Leakage Rate: 0.905261 +/- 0.000019, FOM_leak  = 1.458547e+00
+ NParticle Transported: 100000000 , XS Evals: 1.633037e+09
+
+ Using Delta Tracking
+
+ Real Coll Rate: 0.315876 +/- 0.000051, FOM_c_rel = 2.173812e-01
+ Tot. Coll Rate: 0.315863 +/- 0.000035, FOM_c_tot = 4.585989e-01
+   Leakage Rate: 0.905238 +/- 0.000018, FOM_leak  = 1.458183e+01
+ NParticle Transported: 100000000 , XS Evals: 1.785968e+08
+
+ Using Meshed Delta Tracking
+
+ Real Coll Rate: 0.315915 +/- 0.000053, FOM_c_rel = 6.385751e-01
+ Tot. Coll Rate: 0.315888 +/- 0.000042, FOM_c_tot = 1.036047e+00
+   Leakage Rate: 0.905234 +/- 0.000018, FOM_leak  = 4.365929e+01
+ NParticle Transported: 100000000 , XS Evals: 5.558171e+07
+
+ Using Negative Weighted Delta Tracking
+
+ Real Coll Rate: 0.315758 +/- 0.000084, FOM_c_rel = 9.333303e-02
+ Tot. Coll Rate: 0.315816 +/- 0.000041, FOM_c_tot = 3.988629e-01
+   Leakage Rate: 0.905201 +/- 0.000076, FOM_leak  = 9.533184e-01
+ NParticle Transported: 110920532 , XS Evals: 1.497040e+08
+
+ Using Meshed Netative Weighted Delta Tracking
+
+ Real Coll Rate: 0.315960 +/- 0.000096, FOM_c_rel = 2.198303e-01
+ Tot. Coll Rate: 0.315910 +/- 0.000048, FOM_c_tot = 8.726123e-01
+   Leakage Rate: 0.905251 +/- 0.000046, FOM_leak  = 7.894434e+00
+ NParticle Transported: 105159007 , XS Evals: 4.955009e+07
+
+ Using Carter Transport
+
+ Real Coll Rate: 0.315932 +/- 0.000055, FOM_c_rel = 2.140019e-01
+ Tot. Coll Rate: 0.315903 +/- 0.000041, FOM_c_tot = 3.976779e-01
+   Leakage Rate: 0.905211 +/- 0.000021, FOM_leak  = 1.168309e+01
+ NParticle Transported: 100000000 , XS Evals: 1.525373e+08
+
+ Using Meshed Carter Transport
+
+ Real Coll Rate: 0.315981 +/- 0.000054, FOM_c_rel = 7.183460e-01
+ Tot. Coll Rate: 0.315964 +/- 0.000046, FOM_c_tot = 9.917098e-01
+   Leakage Rate: 0.905240 +/- 0.000023, FOM_leak  = 3.132439e+01
+ NParticle Transported: 100000001 , XS Evals: 4.746116e+07
+
+ Using Improving Meshed Carter Transport
+
+ Real Coll Rate: 0.315954 +/- 0.000052, FOM_c_rel = 6.635281e-01
+ Tot. Coll Rate: 0.315904 +/- 0.000043, FOM_c_tot = 9.653479e-01
+   Leakage Rate: 0.905213 +/- 0.000019, FOM_leak  = 4.214927e+01
+ NParticle Transported: 100000000 , XS Evals: 5.558504e+07
+
+ =======================================================
+ Using Gaussian XS Σ(x) = 0.80 * Exp[-(x-1.23)^2/(0.05)^2] + 0.10 ,  ∀ x ∈ [0.00,2.00]
+
+ Using Sub-Stepping Transport
+
+ Real Coll Rate: 0.259684 +/- 0.000048, FOM_c_rel = 2.921948e-03
+ Tot. Coll Rate: 0.259684 +/- 0.000048, FOM_c_tot = 2.921948e-03
+   Leakage Rate: 0.922100 +/- 0.000016, FOM_leak  = 3.253081e-01
+ NParticle Transported: 100000000 , XS Evals: 9.993792e+09
+
+ Using Direct-Sampling
+
+ Real Coll Rate: 0.259782 +/- 0.000048, FOM_c_rel = 2.111480e-02
+ Tot. Coll Rate: 0.259782 +/- 0.000048, FOM_c_tot = 2.111480e-02
+   Leakage Rate: 0.922075 +/- 0.000017, FOM_leak  = 2.095967e+00
+ NParticle Transported: 100000000 , XS Evals: 1.359032e+09
+
+ Using Delta Tracking
+
+ Real Coll Rate: 0.259680 +/- 0.000049, FOM_c_rel = 1.541479e-01
+ Tot. Coll Rate: 0.259641 +/- 0.000028, FOM_c_tot = 4.757043e-01
+   Leakage Rate: 0.922114 +/- 0.000017, FOM_leak  = 1.559076e+01
+ NParticle Transported: 100000000 , XS Evals: 1.794627e+08
+
+ Using Meshed Delta Tracking
+
+ Real Coll Rate: 0.259658 +/- 0.000049, FOM_c_rel = 3.944673e-01
+ Tot. Coll Rate: 0.259684 +/- 0.000041, FOM_c_tot = 5.582073e-01
+   Leakage Rate: 0.922109 +/- 0.000017, FOM_leak  = 4.229408e+01
+ NParticle Transported: 100000000 , XS Evals: 7.246565e+07
+
+ Using Negative Weighted Delta Tracking
+
+ Real Coll Rate: 0.259633 +/- 0.000060, FOM_c_rel = 1.366435e-01
+ Tot. Coll Rate: 0.259677 +/- 0.000034, FOM_c_tot = 4.429112e-01
+   Leakage Rate: 0.922070 +/- 0.000063, FOM_leak  = 1.587997e+00
+ NParticle Transported: 103753492 , XS Evals: 1.348562e+08
+
+ Using Meshed Netative Weighted Delta Tracking
+
+ Real Coll Rate: 0.259617 +/- 0.000089, FOM_c_rel = 1.342983e-01
+ Tot. Coll Rate: 0.259681 +/- 0.000046, FOM_c_tot = 4.970670e-01
+   Leakage Rate: 0.922060 +/- 0.000059, FOM_leak  = 3.894149e+00
+ NParticle Transported: 108350894 , XS Evals: 6.308220e+07
+
+ Using Carter Transport
+
+ Real Coll Rate: 0.259633 +/- 0.000051, FOM_c_rel = 1.731909e-01
+ Tot. Coll Rate: 0.259677 +/- 0.000031, FOM_c_tot = 4.615460e-01
+   Leakage Rate: 0.922116 +/- 0.000021, FOM_leak  = 1.293957e+01
+ NParticle Transported: 100000000 , XS Evals: 1.526184e+08
+
+ Using Meshed Carter Transport
+
+ Real Coll Rate: 0.259744 +/- 0.000056, FOM_c_rel = 3.475193e-01
+ Tot. Coll Rate: 0.259728 +/- 0.000046, FOM_c_tot = 5.228263e-01
+   Leakage Rate: 0.922117 +/- 0.000030, FOM_leak  = 1.511345e+01
+ NParticle Transported: 100000071 , XS Evals: 6.221836e+07
+
+ Using Improving Meshed Carter Transport
+
+ Real Coll Rate: 0.259691 +/- 0.000048, FOM_c_rel = 4.014802e-01
+ Tot. Coll Rate: 0.259680 +/- 0.000041, FOM_c_tot = 5.539930e-01
+   Leakage Rate: 0.922091 +/- 0.000017, FOM_leak  = 4.206288e+01
+ NParticle Transported: 100000000 , XS Evals: 7.246850e+07
+
+ =======================================================
+ Using Gaussian XS Σ(x) = 0.80 * Exp[-(x-1.23)^2/(1.00)^2] + 0.10 ,  ∀ x ∈ [0.00,2.00]
+
+ Using Sub-Stepping Transport
+
+ Real Coll Rate: 1.088740 +/- 0.000087, FOM_c_rel = 1.707665e-02
+ Tot. Coll Rate: 1.088740 +/- 0.000087, FOM_c_tot = 1.707665e-02
+   Leakage Rate: 0.673412 +/- 0.000033, FOM_leak  = 4.379256e-02
+ NParticle Transported: 100000000 , XS Evals: 9.257086e+09
+
+ Using Direct-Sampling
+
+ Real Coll Rate: 1.088684 +/- 0.000085, FOM_c_rel = 2.902792e-02
+ Tot. Coll Rate: 1.088684 +/- 0.000085, FOM_c_tot = 2.902792e-02
+   Leakage Rate: 0.673381 +/- 0.000033, FOM_leak  = 7.219456e-02
+ NParticle Transported: 100000000 , XS Evals: 5.686767e+09
+
+ Using Delta Tracking
+
+ Real Coll Rate: 1.088836 +/- 0.000085, FOM_c_rel = 9.964419e-01
+ Tot. Coll Rate: 1.088815 +/- 0.000078, FOM_c_tot = 1.174847e+00
+   Leakage Rate: 0.673397 +/- 0.000035, FOM_leak  = 2.186113e+00
+ NParticle Transported: 100000000 , XS Evals: 1.660743e+08
+
+ Using Meshed Delta Tracking
+
+ Real Coll Rate: 1.088762 +/- 0.000088, FOM_c_rel = 1.116686e+00
+ Tot. Coll Rate: 1.088732 +/- 0.000086, FOM_c_tot = 1.171226e+00
+   Leakage Rate: 0.673361 +/- 0.000035, FOM_leak  = 2.736963e+00
+ NParticle Transported: 100000000 , XS Evals: 1.376262e+08
+
+ Using Negative Weighted Delta Tracking
+
+ Real Coll Rate: 1.088649 +/- 0.000256, FOM_c_rel = 1.052580e-01
+ Tot. Coll Rate: 1.088626 +/- 0.000126, FOM_c_tot = 4.343876e-01
+   Leakage Rate: 0.673412 +/- 0.000091, FOM_leak  = 3.215456e-01
+ NParticle Transported: 130159271 , XS Evals: 1.719609e+08
+
+ Using Meshed Netative Weighted Delta Tracking
+
+ Real Coll Rate: 1.088408 +/- 0.000273, FOM_c_rel = 1.021527e-01
+ Tot. Coll Rate: 1.088612 +/- 0.000131, FOM_c_tot = 4.423941e-01
+   Leakage Rate: 0.673277 +/- 0.000104, FOM_leak  = 2.693642e-01
+ NParticle Transported: 142615804 , XS Evals: 1.552739e+08
+
+ Using Carter Transport
+
+ Real Coll Rate: 1.088732 +/- 0.000108, FOM_c_rel = 6.874885e-01
+ Tot. Coll Rate: 1.088766 +/- 0.000096, FOM_c_tot = 8.763084e-01
+   Leakage Rate: 0.673385 +/- 0.000048, FOM_leak  = 1.306986e+00
+ NParticle Transported: 100001310 , XS Evals: 1.481891e+08
+
+ Using Meshed Carter Transport
+
+ Real Coll Rate: 1.088668 +/- 0.000114, FOM_c_rel = 7.281293e-01
+ Tot. Coll Rate: 1.088689 +/- 0.000100, FOM_c_tot = 9.434220e-01
+   Leakage Rate: 0.673355 +/- 0.000055, FOM_leak  = 1.199690e+00
+ NParticle Transported: 100002913 , XS Evals: 1.258996e+08
+
+ Using Improving Meshed Carter Transport
+
+ Real Coll Rate: 1.088820 +/- 0.000085, FOM_c_rel = 1.188911e+00
+ Tot. Coll Rate: 1.088809 +/- 0.000085, FOM_c_tot = 1.196959e+00
+   Leakage Rate: 0.673359 +/- 0.000035, FOM_leak  = 2.645956e+00
+ NParticle Transported: 100000000 , XS Evals: 1.376316e+08
+
+ =======================================================

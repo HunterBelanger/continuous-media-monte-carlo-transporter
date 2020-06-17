@@ -10,6 +10,10 @@ section is spatially non-uniform.
 Please refer to the following article for more information:
 "H. Belanger et al., submitted to EPJ+ (2020)"
 
+The example output files in the '''data''' directory contain the data sets used
+to write this article. A python script is also provided there to plot the
+collision density and FOM for all problems.
+
 ## Problem Description
 The code uses as one-dimensional rod geometry. The media is located in within
 the domain 0 <= x <= 2, with vacuum boundary conditions imposed at x=0 and x=2.
