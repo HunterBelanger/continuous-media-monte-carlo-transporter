@@ -10,7 +10,7 @@ section is spatially non-uniform.
 Please refer to the following article for more information:
 "H. Belanger et al., submitted to EPJ+ (2020)"
 
-The example output files in the '''data''' directory contain the data sets used
+The example output files in the ```data``` directory contain the data sets used
 to write this article. A python script is also provided there to plot the
 collision density and FOM for all problems.
 
